@@ -49,6 +49,8 @@ print(cm)
 ```
 
 ## Output:
+
+![7-3](https://github.com/user-attachments/assets/61036d27-75a8-4314-b009-38d3655e40cd)
 ```
 Accuracy
 ```
@@ -59,7 +61,6 @@ Confusion matix
 ```
 ![7-2](https://github.com/user-attachments/assets/b7e6805c-0480-4713-9013-79088f048fe2)
 
-![7-3](https://github.com/user-attachments/assets/61036d27-75a8-4314-b009-38d3655e40cd)
 
 
 ## Result:
